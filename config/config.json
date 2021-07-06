@@ -1,11 +1,11 @@
 {
-    "apiKey": "AIzaSyDJ7LLALHzOIcNJhSbiBj1xABLZ2yqcLkE",
-    "authDomain": "project-83e1e.firebaseapp.com",
-    "databaseURL": "https://project-83e1e.firebaseio.com",
-    "projectId": "project-83e1e",
-    "storageBucket": "project-83e1e.appspot.com",
-    "messagingSenderId": "187865095611",
-    "appId": "1:187865095611:web:c897fd6b1dd6673e0eb89e",
-    "measurementId": "G-DQ8V4TS9QH",
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "",
+    "measurementId": "",
     "serviceAccount": "/home/pi/whisper/config/mykey.json"
 }
